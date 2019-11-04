@@ -71,7 +71,7 @@
         </ActivityAction>
       </ui:ForEachRow.Body>
     </ui:ForEachRow>
-    <ui:WriteRange AddHeaders="False" DataTable="[DT]" DisplayName="Write Range" sap:VirtualizedContainerService.HintSize="354,115" sap2010:WorkflowViewState.IdRef="WriteRange_2" Password="{x:Null}" SheetName="Sheet1" WorkbookPath="[filePath]">
+    <ui:WriteRange AddHeaders="False" DataTable="[DT]" DisplayName="Write Range" sap:VirtualizedContainerService.HintSize="354,115" sap2010:WorkflowViewState.IdRef="WriteRange_2" Password="{x:Null}" SheetName="Sheet1" WorkbookPath="[filePath.Replace(&quot;.&quot;,&quot; &quot;+&quot;Changed.&quot;)]">
       <ui:WriteRange.StartingCell>
         <InArgument x:TypeArguments="x:String">
           <Literal x:TypeArguments="x:String" Value="" />
