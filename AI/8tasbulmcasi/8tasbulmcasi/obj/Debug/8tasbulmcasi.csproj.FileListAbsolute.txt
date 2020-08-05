@@ -1,0 +1,11 @@
+C:\Users\serda\source\repos\8tasbulmcasi\8tasbulmcasi\bin\Debug\8tasbulmcasi.exe.config
+C:\Users\serda\source\repos\8tasbulmcasi\8tasbulmcasi\bin\Debug\8tasbulmcasi.exe
+C:\Users\serda\source\repos\8tasbulmcasi\8tasbulmcasi\bin\Debug\8tasbulmcasi.pdb
+C:\Users\serda\source\repos\8tasbulmcasi\8tasbulmcasi\obj\Debug\8tasbulmcasi.csprojAssemblyReference.cache
+C:\Users\serda\source\repos\8tasbulmcasi\8tasbulmcasi\obj\Debug\_8tasbulmcasi.Form1.resources
+C:\Users\serda\source\repos\8tasbulmcasi\8tasbulmcasi\obj\Debug\_8tasbulmcasi.openForm.resources
+C:\Users\serda\source\repos\8tasbulmcasi\8tasbulmcasi\obj\Debug\_8tasbulmcasi.Properties.Resources.resources
+C:\Users\serda\source\repos\8tasbulmcasi\8tasbulmcasi\obj\Debug\8tasbulmcasi.csproj.GenerateResource.cache
+C:\Users\serda\source\repos\8tasbulmcasi\8tasbulmcasi\obj\Debug\8tasbulmcasi.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\8tasbulmcasi\8tasbulmcasi\obj\Debug\8tasbulmcasi.exe
+C:\Users\serda\source\repos\8tasbulmcasi\8tasbulmcasi\obj\Debug\8tasbulmcasi.pdb

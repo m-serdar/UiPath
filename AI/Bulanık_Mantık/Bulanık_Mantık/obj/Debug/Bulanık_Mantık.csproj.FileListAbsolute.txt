@@ -1,0 +1,10 @@
+C:\Users\serda\source\repos\Bulanık_Mantık\Bulanık_Mantık\bin\Debug\Bulanık_Mantık.exe.config
+C:\Users\serda\source\repos\Bulanık_Mantık\Bulanık_Mantık\bin\Debug\Bulanık_Mantık.exe
+C:\Users\serda\source\repos\Bulanık_Mantık\Bulanık_Mantık\bin\Debug\Bulanık_Mantık.pdb
+C:\Users\serda\source\repos\Bulanık_Mantık\Bulanık_Mantık\obj\Debug\Bulanık_Mantık.csprojAssemblyReference.cache
+C:\Users\serda\source\repos\Bulanık_Mantık\Bulanık_Mantık\obj\Debug\Bulanık_Mantık.Form1.resources
+C:\Users\serda\source\repos\Bulanık_Mantık\Bulanık_Mantık\obj\Debug\Bulanık_Mantık.Properties.Resources.resources
+C:\Users\serda\source\repos\Bulanık_Mantık\Bulanık_Mantık\obj\Debug\Bulanık_Mantık.csproj.GenerateResource.cache
+C:\Users\serda\source\repos\Bulanık_Mantık\Bulanık_Mantık\obj\Debug\Bulanık_Mantık.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\Bulanık_Mantık\Bulanık_Mantık\obj\Debug\Bulanık_Mantık.exe
+C:\Users\serda\source\repos\Bulanık_Mantık\Bulanık_Mantık\obj\Debug\Bulanık_Mantık.pdb
