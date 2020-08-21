@@ -157,13 +157,13 @@
     {
       "Package": {
         "Id": "RPAChallenge.DeepAI.Activities",
-        "Version": "0.1.0.725124425"
+        "Version": "0.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\serda\\.nuget\\packages\\rpachallenge.deepai.activities/0.1.0.725124425\\lib/net461/RPAChallenge.DeepAI.Activities.Design.dll",
-        "C:\\Users\\serda\\.nuget\\packages\\rpachallenge.deepai.activities/0.1.0.725124425\\lib/net461/RPAChallenge.DeepAI.Activities.dll"
+        "C:\\Users\\serda\\.nuget\\packages\\rpachallenge.deepai.activities/0.1.0\\lib/net461/RPAChallenge.DeepAI.Activities.Design.dll",
+        "C:\\Users\\serda\\.nuget\\packages\\rpachallenge.deepai.activities/0.1.0\\lib/net461/RPAChallenge.DeepAI.Activities.dll"
       ],
-      "Path": "C:\\Users\\serda\\.nuget\\packages\\rpachallenge.deepai.activities\\0.1.0.725124425"
+      "Path": "C:\\Users\\serda\\.nuget\\packages\\rpachallenge.deepai.activities\\0.1.0"
     }
   ],
   "Conflicts": [],
@@ -309,7 +309,7 @@
     },
     "RPAChallenge.DeepAI.Activities": {
       "Id": "RPAChallenge.DeepAI.Activities",
-      "Version": "0.1.0.725124425",
+      "Version": "0.1.0",
       "Dependencies": []
     },
     "SharpZipLib": {
@@ -741,13 +741,13 @@
     {
       "Package": {
         "Id": "RPAChallenge.DeepAI.Activities",
-        "Version": "0.1.0.725124425"
+        "Version": "0.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\serda\\.nuget\\packages\\rpachallenge.deepai.activities\\0.1.0.725124425\\lib\\net461\\RPAChallenge.DeepAI.Activities.Design.dll",
-        "C:\\Users\\serda\\.nuget\\packages\\rpachallenge.deepai.activities\\0.1.0.725124425\\lib\\net461\\RPAChallenge.DeepAI.Activities.dll"
+        "C:\\Users\\serda\\.nuget\\packages\\rpachallenge.deepai.activities\\0.1.0\\lib\\net461\\RPAChallenge.DeepAI.Activities.Design.dll",
+        "C:\\Users\\serda\\.nuget\\packages\\rpachallenge.deepai.activities\\0.1.0\\lib\\net461\\RPAChallenge.DeepAI.Activities.dll"
       ],
-      "Path": "C:\\Users\\serda\\.nuget\\packages\\rpachallenge.deepai.activities\\0.1.0.725124425"
+      "Path": "C:\\Users\\serda\\.nuget\\packages\\rpachallenge.deepai.activities\\0.1.0"
     },
     {
       "Package": {

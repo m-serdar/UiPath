@@ -270,7 +270,7 @@
           "lib/net452/RestSharp.dll": {}
         }
       },
-      "RPAChallenge.DeepAI.Activities/0.1.0.725124425": {
+      "RPAChallenge.DeepAI.Activities/0.1.0": {
         "type": "package",
         "frameworkAssemblies": [
           "Microsoft.CSharp",
@@ -1452,10 +1452,10 @@
         "restsharp.nuspec"
       ]
     },
-    "RPAChallenge.DeepAI.Activities/0.1.0.725124425": {
-      "sha512": "4j94kR8ePLPWlKWALR+27dqwiz9VC/dfIKssFBXTdovgWU21A4viYMtNE0r9fiVQzKH2kWG0cXXHvMpSvQ4A7g==",
+    "RPAChallenge.DeepAI.Activities/0.1.0": {
+      "sha512": "L+30672PiI2lnAAkCLLg+kjaT08SELP1eSAAChKivcQW6RSu2+4/ZCvrJIvp5mklgagd2G9bflmmiDsegOFSzA==",
       "type": "package",
-      "path": "rpachallenge.deepai.activities/0.1.0.725124425",
+      "path": "rpachallenge.deepai.activities/0.1.0",
       "files": [
         ".nupkg.metadata",
         "lib/net461/RPAChallenge.DeepAI.Activities.Design.dll",
@@ -1463,7 +1463,7 @@
         "lib/net461/RPAChallenge.DeepAI.Activities.dll",
         "lib/net461/RPAChallenge.DeepAI.Activities.xml",
         "packageIcon.png",
-        "rpachallenge.deepai.activities.0.1.0.725124425.nupkg.sha512",
+        "rpachallenge.deepai.activities.0.1.0.nupkg.sha512",
         "rpachallenge.deepai.activities.nuspec"
       ]
     },
@@ -2070,7 +2070,7 @@
     ".NETFramework,Version=v4.6.1": [
       "DeepAI.Client >= 1.3.0 <= 1.3.0",
       "Microsoft.Activities.Extensions >= 2.0.6.9 <= 2.0.6.9",
-      "RPAChallenge.DeepAI.Activities >= 0.1.0.725124425 <= 0.1.0.725124425",
+      "RPAChallenge.DeepAI.Activities >= 0.1.0 <= 0.1.0",
       "UiPath.Excel.Activities >= 2.8.5 <= 2.8.5",
       "UiPath.Mail.Activities >= 1.8.5 <= 1.8.5",
       "UiPath.System.Activities >= 20.4.0 <= 20.4.0",
@@ -2083,11 +2083,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "myRPA_Challenge",
-      "projectName": "myRPA_Challenge",
-      "projectPath": "C:\\Users\\serda\\Documents\\UiPath\\myRPA_Challange\\.local",
+      "projectUniqueName": "Challenge3",
+      "projectName": "Challenge3",
+      "projectPath": "C:\\Users\\serda\\Documents\\GitHub\\UiPath\\UiPath\\RPA-Challenge\\Challenge3\\.local",
       "packagesPath": "C:\\Users\\serda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\serda\\Documents\\UiPath\\myRPA_Challange\\.local"
+      "outputPath": "C:\\Users\\serda\\Documents\\GitHub\\UiPath\\UiPath\\RPA-Challenge\\Challenge3\\.local"
     },
     "frameworks": {
       "net461": {
@@ -2105,7 +2105,7 @@
           "RPAChallenge.DeepAI.Activities": {
             "include": "Runtime",
             "target": "Package",
-            "version": "[0.1.0.725124425, 0.1.0.725124425]"
+            "version": "[0.1.0, 0.1.0]"
           },
           "UiPath.Excel.Activities": {
             "include": "Runtime",
