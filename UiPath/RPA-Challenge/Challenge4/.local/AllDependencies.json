@@ -3637,9 +3637,9 @@
     "restore": {
       "projectUniqueName": "Challenge4",
       "projectName": "Challenge4",
-      "projectPath": "C:\\Users\\serda\\Documents\\UiPath\\Challenge4\\.local",
+      "projectPath": "C:\\Users\\serda\\Documents\\GitHub\\UiPath\\UiPath\\RPA-Challenge\\Challenge4\\.local",
       "packagesPath": "C:\\Users\\serda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\serda\\Documents\\UiPath\\Challenge4\\.local"
+      "outputPath": "C:\\Users\\serda\\Documents\\GitHub\\UiPath\\UiPath\\RPA-Challenge\\Challenge4\\.local"
     },
     "frameworks": {
       "net461": {
